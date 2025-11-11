@@ -8,15 +8,15 @@ A lightweight **LAMP-based membership system** for managing **students, agreemen
 
 ### 🧑‍🎓 Students Management
 Add and list student details with timestamps.  
-![Students](./screenshots/students.png)
+![Students](./screenshots/Students.png)
 
 ### 📜 Agreements
 Assign membership plans and track next due dates.  
-![Agreements](./screenshots/agreements.png)
+![Agreements](./screenshots/Agreements.png)
 
 ### 💳 Payments
 Record and view all payments with amount, method, and notes.  
-![Payments](./screenshots/payments.png)
+![Payments](./screenshots/Payments.png)
 
 ### 📈 Revenue Dashboard
 Summarize monthly income and export as CSV.  
